@@ -67,7 +67,8 @@ h3 {font-size:25px;}
   color: white;
   text-align: center;
   background-color: white;
-  background-image: url("http://i168.photobucket.com/albums/u193/titaz85/BanniereBlog_7_modifiAcopy-1_zpsxol2gyrs.jpg"); }
+  background-image: url("http://i168.photobucket.com/albums/u193/titaz85/BanniereBlog_7_modifiAcopy-1_zpsxol2gyrs.jpg");
+  background-image:center;}
 
 @media screen and (min-width: 64em) {
   .page-header {
