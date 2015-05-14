@@ -15,8 +15,11 @@ a {
   a:hover {
     text-decoration: underline; }
     
-h1 {font-size:16px;
+h1 {font-size:30px;
   color: red;}
+  
+h2 {font-size:25px;
+  color: blue;}
 
 .btn {
   display: inline-block;
