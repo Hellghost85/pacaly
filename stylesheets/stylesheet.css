@@ -16,12 +16,10 @@ a {
     text-decoration: underline; }
     
 h1 {font-size:30px;
-    font-family:Comic Sans MS;
     color: red;}
   
 h2 {font-size:25px;
-    font-family:Comic Sans MS;
-  color: blue;}
+  color: red;}
 
 .btn {
   display: inline-block;
