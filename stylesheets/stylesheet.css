@@ -70,7 +70,7 @@ h3 {font-size:25px;}
   background-image: url("http://i168.photobucket.com/albums/u193/titaz85/BanniereBlog_7_modifiAcopy-1_zpsxol2gyrs.jpg");
   background-position:absolute;
   background-repeat:no-repeat;
-  max-width:100% auto;
+  background-size:cover;
 }
 
 @media screen and (min-width: 64em) {
