@@ -9,8 +9,7 @@ body {
   line-height: 1.5;
   color: #606c71; }
 
-a {
-  color: #1e6bb8;
+a {color: #1e6bb8;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -68,7 +67,6 @@ h3 {font-size:25px;}
   color: white;
   text-align: center;
   background-color: white;
-  background-image: url("http://i168.photobucket.com/albums/u193/titaz85/BanniereBlog_7_modifiAcopy-1_zpsxol2gyrs.jpg");
   background-position:absolute;
   background-repeat:no-repeat;
   background-image:cover;
