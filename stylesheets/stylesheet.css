@@ -14,6 +14,10 @@ a {color: #1e6bb8;
   a:hover {
     text-decoration: underline; }
     
+img {width:100%;
+    background-size:cover;
+  }
+    
 h1 {font-size:40px;
     font-family:Comic Sans MS;
     color: red;
