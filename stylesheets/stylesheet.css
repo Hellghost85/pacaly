@@ -23,8 +23,7 @@ h2 {font-size:30px;
   font-family:Comic Sans MS;
   color: red;}
   
-h3 {font-size:25px;
-    font-size:Comic Sans MS;}
+h3 {font-size:25px;}
 
 .btn {
   display: inline-block;
@@ -65,10 +64,10 @@ h3 {font-size:25px;
       margin-left: 0; } }
 
 .page-header {
-  color: blue;
+  color: white;
   text-align: center;
   background-color: white;
-  background-image: center; }
+  background-image: fixed; }
 
 @media screen and (min-width: 64em) {
   .page-header {
